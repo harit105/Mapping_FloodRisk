@@ -85,6 +85,4 @@ The data used in this project should be cleaned and stored in a DataFrame named 
 - `lon`: Longitude of the location
 - `risk_color`: Color representing the flood risk level
 
-## License
 
-This project is licensed under the MIT License.
